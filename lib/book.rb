@@ -12,4 +12,7 @@ class Book
   def author
     @author
   end 
+  def turn_page
+    
+  end
 end 
